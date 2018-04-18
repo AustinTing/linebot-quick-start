@@ -5,6 +5,8 @@ Quick start for linebot developing by using Node.js.
 
 `git clone https://github.com/AustinTing/linebot-quick-start.git`
 
+`cd linebot-quick-start/`
+
 `npm install`
 ### Set LINE Channel
 - Create `.env` in this project and write the related data from [LINE Developers](https://developers.line.me/console/) as below:
