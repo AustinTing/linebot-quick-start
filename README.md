@@ -9,9 +9,9 @@ Quick start for linebot developing by using Node.js.
 
 `npm install`
 ### Set LINE Channel
-- Create `.env` in this project and write the related data from [LINE Developers](https://developers.line.me/console/) as below:
+- Create a .env file in the root directory of your project. Add LINE channel config as environment-specific variables from your [LINE Developers](https://developers.line.me/console/) as below:
 ```
-channelId＝YOUR_CHANNELID
-channelSecret＝YOUR_CHANNEL_SECRET
-channelAccessToken＝YOUR_CHANNEL_ACCESS_TOKEN
+channelId=YOUR_CHANNELID
+channelSecret=YOUR_CHANNEL_SECRET
+channelAccessToken=YOUR_CHANNEL_ACCESS_TOKEN
 ```
